@@ -52,7 +52,7 @@ The recipes are initialized from:
 
 ## 📦 Installation
 **1️⃣ Clone this repo:**  
-`git clone https://github.com/your-username/ai-recipe-finder.git`  
+`git clone https://github.com/your-username/AI-RECEIPE-FINDER.git`  
 `cd ai-recipe-finder`  
 
 **2️⃣ Install dependencies:**  
